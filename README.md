@@ -1,6 +1,6 @@
 ## Hi there I`m Danil 
-- I am Very motivated Java Softwer Engineer. T
-hanks to 2 years in testing, i know how to take responsibility for my actions, i am always involved in product development, and I am ready to go to new goals
+- I am very motivated Java Softwer Engineer. 
+Thanks to 2 years in testing, i know how to take responsibility for my actions, i am always involved in product development, and I am ready to go to new goals
 
 <div align="center">
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
