@@ -56,14 +56,14 @@ Docker: Used to build the application container for easy deployment.
 
 GitHub Actions: Used for CI/CD, automating the build and test.
 </details>
-<details>
-	
+
 ### [Telegram bot for tracking exchange rates](https://github.com/Danil-Kh/Group4_TelegramBot.git) 
 
 In this project, a Java telegram bot was created using the capabilities of the Java language and several additional libraries
 
 **Java 21 & Gradle & Telegram Bot API & Telegram Client & Gson **
 
+<details>
 <summary>Details of the project</summary>
 <br>
 
