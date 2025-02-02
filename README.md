@@ -22,22 +22,36 @@ Thanks to 2 years in testing, i know how to take responsibility for my actions, 
 ## **My Projects**:
 ### [URL Shortener REST API](https://github.com/ruslanaprus/short-url.git)
 A Java Spring application that provides a REST API for URL shortening. This project allows users to generate short links for long URLs, manage them, and track usage statistics, including click counts.
+
 **Java 21 & Spring Boot & Spring Data JPA & Spring Security & JWT & PostgreSQL & Flyway & Thymeleaf & JUnit 5 & Mockito & Springdoc OpenAPI**
 <details>
 <summary>Details of the project</summary>
 <br>
 **Technologies Used**
 Java 21: Core programming language for the application.
+
 Spring Boot 3.4.1: Simplifies application development with embedded server and configuration support.
+
 Spring Data JPA: Database access and management.
+
 Spring Security: Provides secure user authentication and authorization.
+
 PostgreSQL: Database for persisting URLs and user information.
+
 Flyway: Handles database schema migrations.
+
 Jakarta Bean Validation: Ensures data integrity.
+
 JWT: Stateless, token-based session handling.
+
 Lombok: Reduces boilerplate code.
+
 JUnit 5 & Mockito: Unit and integration testing frameworks.
+
 Testcontainers: Provides isolated and lightweight test environments using containers.
+
 Docker: Used to build the application container for easy deployment.
+
 GitHub Actions: Used for CI/CD, automating the build and test.
+
 </details>
