@@ -61,7 +61,7 @@ GitHub Actions: Used for CI/CD, automating the build and test.
 
 In this project, a Java telegram bot was created using the capabilities of the Java language and several additional libraries
 
-**Java 21 & Gradle & Telegram Bot API & Telegram Client & Gson **
+**Java 21 & Gradle & Telegram Bot API & Telegram Client & Gson**
 
 <details>
 <summary>Details of the project</summary>
@@ -91,3 +91,5 @@ Users can choose their preferred notification time.
 Built to be easily expandable, allowing the addition of new banks or currencies, with external storage support for user preferences.
 
 </details>
+
+
