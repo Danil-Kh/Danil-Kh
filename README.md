@@ -27,7 +27,9 @@ A Java Spring application that provides a REST API for URL shortening. This proj
 <details>
 <summary>Details of the project</summary>
 <br>
-**Technologies Used**
+
+Technologies Used
+
 Java 21: Core programming language for the application.
 
 Spring Boot 3.4.1: Simplifies application development with embedded server and configuration support.
@@ -53,5 +55,39 @@ Testcontainers: Provides isolated and lightweight test environments using contai
 Docker: Used to build the application container for easy deployment.
 
 GitHub Actions: Used for CI/CD, automating the build and test.
+</details>
+<details>
+	
+### [Telegram bot for tracking exchange rates](https://github.com/Danil-Kh/Group4_TelegramBot.git) 
+
+In this project, a Java telegram bot was created using the capabilities of the Java language and several additional libraries
+
+**Java 21 & Gradle & Telegram Bot API & Telegram Client & Gson **
+
+<summary>Details of the project</summary>
+<br>
+
+**Live Currency Exchange Rates**: Retrieves and displays the latest exchange rates from multiple banks.  
+
+
+**User Preferences**:  
+
+Enables users to customize their preferences, including preferred currencies and notification schedules.  
+
+Settings are loaded from storage upon startup, ensuring the bot resumes with the same configurations after a restart.  
+
+User preferences are stored in a JSON file and updated when the user selects specific options. If no preferences are set, default settings are applied.  
+
+
+**Notifications**:  
+
+The bot sends notifications to users based on their selected preferences.  
+
+Users can choose their preferred notification time.  
+
+
+**Scalability**: 
+
+Built to be easily expandable, allowing the addition of new banks or currencies, with external storage support for user preferences.
 
 </details>
