@@ -92,4 +92,43 @@ Built to be easily expandable, allowing the addition of new banks or currencies,
 
 </details>
 
+### [ReainNores program is designed to manage notes with registration authorization](https://github.com/Danil-Kh/RainNotes-.git) 
 
+This program is designed to manage notes with registration authorization
+
+**Java 21 & Gradle & Spring Boot & Thymeleaf & JUnit 5 & Mockito & CSS & HTML & JavaScript**
+
+<details>
+<summary>Details of the project</summary>
+<br>
+
+**Live Currency Exchange Rates**: Retrieves and displays the latest exchange rates from multiple banks.  
+
+
+**Note Management**:  
+
+- Users can create, edit, and delete personal notes with titles and content
+  
+- All notes are securely stored in the database and linked to specific users
+  
+- Notes can be viewed in a comprehensive list format
+  
+- Real-time updates when notes are modified or deleted
+  
+- Default note settings are applied for new users
+
+
+**User Authentication**:  
+
+- Users can register and log in with unique usernames
+
+- Secure password storage using BCrypt encryption
+
+- Session management ensures secure access to notes
+
+- User credentials are validated on both client and server side
+
+- Default security settings protect against unauthorized access
+
+
+</details>
